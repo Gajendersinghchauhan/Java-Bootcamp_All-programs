@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java-bootcamp.iml" filepath="$PROJECT_DIR$/Java-bootcamp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/first-idea-program1/first-idea-program1.iml" filepath="$PROJECT_DIR$/first-idea-program1/first-idea-program1.iml" />
+    </modules>
+  </component>
+</project>
